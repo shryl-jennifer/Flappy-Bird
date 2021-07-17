@@ -1,3 +1,3 @@
 # Flappy-Bird
-Frontend:- AWT & SWING
-Backend:- JAVA
+#Frontend:- AWT & SWING
+#Backend:- JAVA
